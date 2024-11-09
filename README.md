@@ -1,0 +1,3 @@
+This was a system made in 2019 and improved till a few months ago. Selected ranks within my TJO group were able to use the command to start a gathering. There are cutscenes and plauyers are able to get a crystal and logged for all our games.
+
+I made sure my system had a lot of security systems, making sure players can bug in and get crystals, and it detects if a host hosts multiple gatherings in a short period of time to indicate they are trying to get crystals when they shouldn't be. There is also dicsord logging which tells us what crystal they got, who hosted the gathering, and who was at the gathering.
